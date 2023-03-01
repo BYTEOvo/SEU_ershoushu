@@ -5,7 +5,7 @@
 
 ## 项目技术选型
 前端技术栈： vue + ElementUI + axios
-后端技术栈： SpringBoot + ApacheShiro + SpringDataJPA
-数据库： MySQL
 
-##
+后端技术栈： SpringBoot + ApacheShiro + SpringDataJPA
+
+数据库： MySQL
